@@ -1,48 +1,174 @@
-# Hi, I'm Sudarshan Murade 👋
+<div align="center">
 
-🎓 First-year IT student at VIT Pune, Maharashtra, India
-💡 I enjoy building things — from websites to IoT projects  
-🚀 Currently learning Node.js, Express.js, and backend development  
-🌱 Growing one project at a time and improving through real-world builds  
+# Hi 👋, I'm Sudarshan Murade
 
----
+### 💻 B.Tech Information Technology Student (SY) | Full Stack Developer | MERN Stack Developer | DSA Learner
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;MERN+Stack+Developer;Currently+Learning+C%2B%2B+%26+DSA;Building+Projects+Every+Day;Always+Learning+Something+New"/>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+<br>
+
+![](https://komarev.com/ghpvc/?username=sudarshan-murade&style=for-the-badge&color=blue)
+
+</div>
 
 ---
 
-## 🔭 What I'm Working On
+# 🚀 About Me
 
-- Building my personal **portfolio website**
-- Exploring **ESP32 / IoT** projects
-- Learning **Node.js and Express.js**
-- Improving my **problem-solving and development skills**
-
----
-
-## 📌 Interests
-
-- Web Development
-- IoT Projects
-- Backend Development
-- Problem Solving
-- Real-world Project Building
+- 🎓 Second Year B.Tech Information Technology Student
+- 💻 Passionate Full Stack Developer
+- 🌱 Currently learning **C++, Data Structures & Algorithms, React.js**
+- 🚀 Completed **HTML, CSS, JavaScript,C ,Python, Node.js, Express.js & MongoDB**
+- 🔥 Love building real-world projects
+- 🌍 Exploring Open Source Development
+- 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
+- 📍 Maharashtra, India
 
 ---
 
-## 📫 Connect with Me
+# 💻 Tech Stack
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sudarshan-murade-a36538387
-- 📧 Email: sudarshanmurade18@gmail.com
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshan-murade&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudarshan-murade&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-murade&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudarshan-murade&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 📝 Express Notes App
+A notes management application built using Node.js, Express.js, and EJS.
+
+### 🌦 Weather App
+A responsive weather application using HTML, CSS, JavaScript, and Weather API.
+
+### 💰 Expense Tracker
+A personal expense tracker with Local Storage support.
+
+### 🏥 MediQueue+
+A Smart Hospital Queue Management System featuring QR-based token generation, live queue tracking, emergency priority, and an admin dashboard.
+
+### 💡 Smart Street Light System
+An ESP32-based IoT project with automatic lighting and fault detection for energy-efficient street management.
+
+---
+
+# 📚 Currently Learning
+
+- ✅ C++
+- ✅ Data Structures & Algorithms
+- ✅ React.js
+- ✅ System Design (Basics)
+- ✅ Open Source Contributions
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Master React & Next.js
+- 💻 Solve 500+ DSA Problems
+- 🌟 Contribute to Open Source
+- 🏆 Secure a Software Engineering Internship
+- 📱 Build Production-Level Full Stack Applications
+- ⭐ Grow My GitHub & Developer Portfolio
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sudarshan-murade-a36538387">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:muradesudarshan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/sudarshan-murade">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Fun Code
+
+```javascript
+const sudarshan = {
+    role: "Full Stack Developer",
+    education: "B.Tech Information Technology",
+    languages: ["C", "C++", "JavaScript", "Python"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    frontend: ["HTML", "CSS", "React"],
+    currentLearning: ["C++", "DSA", "React"],
+    hobbies: ["Coding", "Learning", "Building Projects"],
+    goal: "Become a Software Engineer"
+};
+
+while (true) {
+    learn();
+    code();
+    build();
+    improve();
+}
+```
+
+---
+
+<div align="center">
+
+## ⚡ "Code • Learn • Build • Repeat"
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my projects, don't forget to ⭐ them!**
+
+</div>
+````
+
