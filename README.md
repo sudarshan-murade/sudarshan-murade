@@ -55,28 +55,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudarshan-murade&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-murade&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sudarshan-murade&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ### 📝 Express Notes App
