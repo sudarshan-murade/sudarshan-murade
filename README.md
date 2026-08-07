@@ -48,7 +48,7 @@ I enjoy working with **full-stack technologies, backend development, C/C++, Data
 
 # 🚀 Featured Projects
 
-### 📝 Express Notes App
+### 📝 NoteVault
 
 A full-stack notes management application built with **Node.js, Express.js, EJS and MongoDB**.
 
@@ -140,8 +140,8 @@ I'm continuously improving my programming fundamentals and working towards build
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudarshanM23&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudarshanM23&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-murade&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-murade&hide_border=true" height="170"/>
 </p>
 
 ---
