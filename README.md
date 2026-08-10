@@ -1,47 +1,106 @@
-# Hi 👋, I'm Sudarshan Murade
+<div align="center">
 
-### 💻 B.Tech IT Student | Full Stack Developer | C++ & DSA | Open Source Learner
+# 👋 Hi, I'm Sudarshan Murade
 
-I'm a **Second Year B.Tech Information Technology student** passionate about software development, problem solving, and building real-world applications.
+### 🎓 B.Tech IT Student @ VIT Pune
 
-I enjoy working with **full-stack technologies, backend development, C/C++, Data Structures & Algorithms**, and I'm currently exploring **React.js and Open Source Development**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full-Stack+Developer;DSA+%26+C%2B%2B+Learner;Open-Source+Contributor;Building+%7C+Learning+%7C+Contributing" alt="Typing SVG" />
 
-* 🎓 **B.Tech Information Technology — Second Year (SY)**
-* 📊 **CGPA: 9.07/10**
-* 💻 Full Stack Developer
-* 🧠 Currently learning **C++, DSA & React.js**
-* 🚀 Experienced with **C, Python, JavaScript, Node.js, Express.js & MongoDB**
-* 🌱 Exploring **Open Source Development**
-* 🔥 Love building practical projects and learning by doing
-* 🎯 Goal: Become a Software Engineer at a top product-based company
-* 📍 Maharashtra, India
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/SY%20B.Tech%20IT-VIT%20Pune-6C2DC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-9.07-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" />
+</p>
+
+<p>
+  <a href="https://github.com/sudarshan-murade">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sudarshan-murade&label=Profile%20Views&color=8B5CF6&style=flat" />
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Languages
+I'm a **Second-Year B.Tech Information Technology student at VIT Pune** who enjoys building practical applications, solving programming problems, and learning through real-world development.
+
+- 🎓 **SY B.Tech Information Technology — VIT Pune**
+- 📊 **FY CGPA: 9.07**
+- 💻 Focused on **MERN Stack & Full-Stack Development**
+- 🧠 Strengthening **DSA & C++**
+- 🌐 Exploring **Backend Development**
+- 🤝 Actively participating in **Open Source**
+- 🚀 Interested in building useful and scalable applications
+- 💡 Learning by **building, contributing, and collaborating**
+
+> **Build. Learn. Contribute. Repeat.**
+
+---
+
+# 🌐 Open Source Journey
+
+Open source is helping me move beyond tutorials and learn how real-world software is built collaboratively.
+
+### 🏆 Communities
+
+- 🟢 **ASOC — Altraverse Space of Code** Contributor
+- 🟠 **GSSoC — GirlScript Summer of Code** Contributor
+
+### 🔀 What I'm Learning Through Open Source
+
+- 🔎 Finding and understanding GitHub Issues
+- 🌿 Creating and working with Git branches
+- 💾 Writing meaningful commits
+- 🔀 Creating Pull Requests
+- 👨‍💻 Working with existing codebases
+- 💬 Communicating with maintainers
+- 🛠️ Implementing requested changes
+- 🤝 Collaborating through Git & GitHub
+
+### 🚀 Recent Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| 🎴 **KanaDojo** | Added Japanese cultural etiquette content | 🔄 PR Submitted |
+| 🧑‍💻 **DevBoard** | Added "Clear Done" functionality | 🔄 PR Submitted |
+
+> My goal is to contribute consistently, learn from experienced developers, and grow into a stronger open-source contributor.
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
 </p>
 
-### 🌐 Frontend
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" />
 </p>
 
-### 🔧 Tools
+### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
 </p>
 
 ---
@@ -50,35 +109,18 @@ I enjoy working with **full-stack technologies, backend development, C/C++, Data
 
 ### 📝 NoteVault
 
-A full-stack notes management application built with **Node.js, Express.js, EJS and MongoDB**.
+A backend-focused notes application built while learning **Node.js, Express.js and MongoDB**.
 
-**Features:**
+**Tech:** Node.js • Express.js • MongoDB • Mongoose
 
-* ➕ Create notes
-* ✏️ Update notes
-* 🗑️ Delete notes
-* 💾 MongoDB database integration
-* ⚙️ Express.js backend
+🔗 **Repository:**  
+https://github.com/sudarshan-murade/NoteVault
 
 ---
 
-### 💻 C Programming Projects
+### 🌦️ Weather Application
 
-A collection of **terminal-based C applications** created to strengthen programming fundamentals and problem-solving skills.
-
-**Includes:**
-
-* 🏦 Menu-driven applications
-* 📁 File handling programs
-* 🔢 Algorithmic problems
-* 🧮 Utility programs
-* 🧠 Data structure implementations
-
----
-
-### 🌦️ Weather App
-
-A responsive weather application that fetches real-time weather information using a weather API.
+A responsive weather application that uses a weather API to display real-time weather information.
 
 **Tech:** HTML • CSS • JavaScript • REST API
 
@@ -86,143 +128,42 @@ A responsive weather application that fetches real-time weather information usin
 
 ### 💰 Expense Tracker
 
-A personal expense management application for tracking daily expenses with browser-based data persistence.
+A simple web application for tracking and managing personal expenses.
 
-**Features:**
-
-* ➕ Add expenses
-* 📊 Track spending
-* 🗑️ Delete transactions
-* 💾 Local Storage support
-
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript • LocalStorage
 
 ---
 
-# 🔌 Other Projects
+### 💡 C Terminal Projects
 
-### 💡 Smart Street Light System
+A collection of C programming projects created to strengthen programming fundamentals, algorithms, and problem-solving skills.
 
-An **ESP32-based IoT project** designed for automatic street-light control and fault detection.
-
-**Components & Technologies:**
-
-`ESP32` • `IR Sensors` • `LDR` • `ACS712` • `PIR Sensors` • `L298N`
-
-**Features:**
-
-* 💡 Automatic light control
-* 🌙 Day/night detection
-* 🚗 Vehicle detection
-* ⚡ Current monitoring
-* 🚨 Fault detection
+**Focus:** C • Algorithms • Problem Solving • Terminal Applications
 
 ---
 
-# 🌱 Currently Learning
+# 🧠 Currently Learning
 
 ```text
-C++
-  ↓
-Data Structures & Algorithms
-  ↓
-React.js
-  ↓
-Advanced Full Stack Development
-  ↓
+DSA & Problem Solving
+├── Arrays
+├── Searching & Sorting
+├── Recursion
+├── Linked Lists
+├── Stacks & Queues
+└── Problem Solving
+
+Full-Stack Development
+├── React
+├── Node.js
+├── Express.js
+├── MongoDB
+└── REST APIs
+
 Open Source
-```
-
-I'm continuously improving my programming fundamentals and working towards building production-level applications.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-murade&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-murade&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* 🧠 Master **C++ & Data Structures and Algorithms**
-* 💻 Solve **500+ DSA problems**
-* ⚛️ Become confident with **React.js**
-* 🚀 Build production-level full-stack applications
-* 🌍 Make meaningful **Open Source contributions**
-* 🏆 Secure a **Software Engineering Internship**
-* 📈 Build a strong GitHub & developer portfolio
-* 🤝 Collaborate with other developers
-
----
-
-# 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/sudarshan-murade">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudarshan-murade-a36538387">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 💻 Developer Mindset
-
-```javascript
-const sudarshan = {
-    role: "Full Stack Developer",
-    education: "B.Tech Information Technology",
-
-    cgpa: "9.07/10",
-
-    languages: [
-        "C",
-        "C++",
-        "JavaScript",
-        "Python"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "React.js"
-    ],
-
-    currentlyLearning: [
-        "C++",
-        "DSA",
-        "React.js",
-        "Open Source"
-    ],
-
-    goal: "Become a Software Engineer"
-};
-
-while (true) {
-    learn();
-    solve();
-    build();
-    contribute();
-    improve();
-}
-```
-
----
-
-## ⚡ Code • Learn • Build • Contribute • Repeat
-
-⭐ **Thanks for visiting my profile!**
-
-If you find my projects interesting, feel free to explore my repositories and leave a ⭐.
+├── Git
+├── GitHub
+├── Issues
+├── Branches
+├── Commits
+└── Pull Requests
