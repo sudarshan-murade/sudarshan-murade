@@ -38,7 +38,7 @@ I'm a **Second-Year B.Tech Information Technology student at VIT Pune** who enjo
 - 💻 Focused on **MERN Stack & Full-Stack Development**
 - 🧠 Strengthening **DSA & C++**
 - 🌐 Exploring **Backend Development**
-- 🤝 Actively participating in **Open Source**
+- 🤝 Actively participating in **Open Source** and **Hackathons**
 - 🚀 Interested in building useful and scalable applications
 - 💡 Learning by **building, contributing, and collaborating**
 
