@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./profile/id-dashboard.svg" width="100%" alt="Sudarshan Murade - Developer Dashboard" />
+<img src="./id-dashboard.svg" width="100%" alt="Sudarshan Murade - Developer Dashboard" />
 
 # Hi, I'm Sudarshan Murade 👋
 
@@ -8,7 +8,7 @@
 
 **Aspiring Software Engineer | MERN Stack Developer | DSA & C++ Learner**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Practical+Web+Applications;Learning+Data+Structures+%26+Algorithms;Exploring+Backend+Development;Growing+Through+Open+Source" alt="Typing SVG" />
+<img src="./techstack.svg" width="100%" alt="My Technology Stack" />
 
 <p>
   <img src="https://img.shields.io/badge/VIT-Pune-6C2DC7?style=flat-square" />
